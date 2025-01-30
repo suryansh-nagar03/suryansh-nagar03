@@ -3,7 +3,9 @@ I'm Suryansh Nagar, a passionate computer engineering student at Delhi Technolog
 
 # 🚀 What I Do:
 🌐 Web Development: I specialize in React, Next.js, Tailwind CSS, Node.js, and Express.js.
+<br>
 🔧 Tech Stack: C++, C, JavaScript, MongoDB, MySQL.
+<br>
 🏆 Competitive Programming: 3⭐ on CodeChef.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/suryansh_.nagar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suryanshnagar03) 
