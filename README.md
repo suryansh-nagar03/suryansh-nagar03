@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Suryansh Nagar, a passionate computer engineering student at Delhi Technological University (DTU) with a strong interest in software development, competitive programming, and web technologies. I love solving DSA problems, exploring new technologies, and building projects that solve real-world challenges.
+I'm Suryansh Nagar, a passionate computer engineering 3rd year student at Delhi Technological University (DTU) with a strong interest in software development, competitive programming, and web technologies. I love solving DSA problems, exploring new technologies, and building projects that solve real-world challenges.
 
 # 🚀 What I Do:
 🌐 Web Development: I specialize in React, Next.js, Tailwind CSS, Node.js, and Express.js.
